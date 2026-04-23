@@ -47,14 +47,18 @@ that empower businesses to move forward with confidence.
 
 ---
 
-## 📂 Featured Projects
-**Real-world projects focused on solving business problems**
+### 📊 Strategic Projects
+Real-world solutions focused on bridging the gap between raw data and business growth.
 
-- 📊 **Car Sales Analysis Dashboard – Power BI**  
-  Interactive KPIs, trend analysis, and executive-ready visuals.
-  
-- 📊 **Vodafone Customer Behavior Insights Dashboard - Power BI**
-  Interactive KPIs, trend analysis, and executive-ready visuals.
+* **Car Sales Performance Ecosystem** | `Power BI` `SQL`
+    * Developed a comprehensive dashboard tracking **YTD/MTD sales**, YOY growth, and weekly trends to optimize dealership inventory and sales strategies.
+    * *Key Focus:* Financial KPIs, Trend Forecasting, and Executive-ready Visuals.
+
+* **Vodafone Customer Behavior Analytics** | `Power BI` `Data Modeling`
+    * Engineered an interactive analysis of subscriber behavior across regions and currencies, identifying churn patterns and high-value segments.
+    * *Key Focus:* Regional Performance, Currency Normalization, and Behavioral Segmentation.
+
+---
   
 ---
 
