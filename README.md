@@ -17,10 +17,6 @@
 
 <br>
 
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=2EC4B6&center=false&vCenter=true&width=720&lines=Hi%2C+I'm+Ahmed+Emad;Analytics+Engineer" alt="Typing SVG" />
-</h1>
-
 ### 🚀 Core Expertise
 I am a **Data Analyst** dedicated to engineering clarity out of chaos. 
 I don't just process numbers; I build the pipelines and visual stories 
