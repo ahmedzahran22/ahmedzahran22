@@ -15,13 +15,26 @@
 
 ---
 
-## 👋 About Me
-I’m a **Data Analyst** who enjoys breaking down complex datasets into simple, meaningful insights.  
-My work focuses on **accuracy, structure, and decision-driven analysis**.
+<div align="center">
 
-- 📊 Data cleaning, analysis & visualization  
-- 🧠 Analytical thinking with business awareness  
-- 📈 Dashboards that tell a story — not just numbers  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3200&pause=900&color=2EC4B6&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Ahmed+Emad;Analytics+Engineer" alt="Typing SVG" />
+</h1>
+
+<br>
+
+### 🚀 The Mission
+I am a **Data Analyst** dedicated to engineering clarity out of chaos. 
+I don't just process numbers; I build the pipelines and visual stories 
+that empower businesses to move forward with confidence.
+
+<br>
+
+🎯 **Accuracy & Structure:** Ensuring every data point is reliable and every schema is optimized.
+<br>
+🧠 **Decision-Driven Analysis:** Focusing on insights that lead to measurable outcomes.
+<br>
+📈 **Visual Storytelling:** Creating Power BI & SQL solutions that speak the language of stakeholders.
 
 ---
 
