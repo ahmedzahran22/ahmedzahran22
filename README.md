@@ -15,8 +15,6 @@
 
 ---
 
-<br>
-
 ### 👋 About Me
 I am a **Data Analyst** dedicated to engineering clarity out of chaos. 
 I don't just process numbers; I build the pipelines and visual stories 
