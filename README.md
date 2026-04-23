@@ -52,7 +52,7 @@ Real-world solutions focused on bridging the gap between raw data and business g
     * Developed a comprehensive dashboard tracking **YTD/MTD sales**, YOY growth, and weekly trends to optimize dealership inventory and sales strategies.
     * *Key Focus:* Financial KPIs, Trend Forecasting, and Executive-ready Visuals.
 
-* **Vodafone Customer Behavior Analytics** | `Power BI` `Data Modeling`
+* **Vodafone Customer Behavior Analytics** | `Power BI` `ُExcel`
     * Engineered an interactive analysis of subscriber behavior across regions and currencies, identifying churn patterns and high-value segments.
     * *Key Focus:* Regional Performance, Currency Normalization, and Behavioral Segmentation.
 
